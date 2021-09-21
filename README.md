@@ -8,7 +8,7 @@ You can use "Holidates" to search for the legal holidays of any country. You onl
 Create a directory, right click on it and choose open terminal. Execute the following command :
 
 ```bash
-npx @abb/holidates
+npx @abb92/holidates
 ```
 
 ## License
