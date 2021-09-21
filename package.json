@@ -1,0 +1,36 @@
+{
+  "name": "@abb92/holidates",
+  "version": "1.0.0",
+  "description": "list of holidays dates for the given year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abb-becode/holidates.git"
+  },
+  "author": "abb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abb-becode/holidates/issues"
+  },
+  "homepage": "https://github.com/abb-becode/holidates#readme",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "clear": "^0.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.5",
+    "ora": "^6.0.1",
+    "prompt": "^1.2.0",
+    "prompt-input": "^3.0.0",
+    "prompts": "^2.4.1",
+    "readline": "^1.3.0"
+  }
+}
